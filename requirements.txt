@@ -4,3 +4,4 @@ tensorflow
 librosa
 numpy
 python-multipart
+Gunicorn
